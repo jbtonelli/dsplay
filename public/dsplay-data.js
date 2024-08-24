@@ -22,14 +22,14 @@ var dsplay_template = {
 
   // sponsor config
   // sponsor_logo: 'https://cdn.designcrowd.com/blog/2016/January/top-company-logos-black/2_Disney_400.png',
-  sponsor_logo: 'https://cdn0.capterra-static.com/logos/150/2105153-1566335117.png',
+  sponsor_logo: 'https://static.wixstatic.com/media/05fb4b_0a19f9181ae444399868f43107078614~mv2.png',
 
   // weather config
   weatherbit_api_key: '0559fac74ef14c2dbd093ee518ba909a',
   // weatherbit_api_key: '4469ae6be8354c7d869296286bf1b04c',
   
-  // latitude: '38.7159817',
-  // longitude: '-9.2261812',
+  // latitude: '21.9888',
+  // longitude: '48.3939',
   latitude: '-8.0421584',
   longitude: '-35.0086754',
 
