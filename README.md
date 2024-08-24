@@ -68,7 +68,7 @@ and use comma to separete, example: "_s, c, w, n, q_"
 ### Getting started
 
 ```
-git clone https://github.com/dsplay/template-horizontal-info-bar.git my-awesome-template
+git clone https://github.com/jbtonelli/dsplay.git my-awesome-template
 cd my-awesome-template
 rm -rf .git
 npm i
